@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author James Mollica
  */
 
 public class Class2 {
